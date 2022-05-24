@@ -1,0 +1,117 @@
+header {background-color: cornflowerblue; color: black; text-align: center; padding: 1% 12% 4% 8%; font-family: 'Oswald', sans-serif; }
+
+
+.nav {text-align: right; padding-right: 0em;}
+#nav {padding-bottom: 0em;}
+
+.whitelink {text-decoration: none; color: black; text-align: center;}
+.form-control {text-align: center;}
+
+
+.genre {transform: translateY(100%);
+      bottom: 7rem;
+      max-width: 52rem;
+      background: #fff;
+      color: #212121;
+      display: flex;
+      justify-content: center;
+      border-radius: 0.8rem;
+	   position: relative;
+	   box-shadow: 0 0.9rem 3.1rem rgb(0 0 0 / 17%);
+	   background-color: #aec9f6;
+      min-width: 33rem;
+    font-family: 'Oswald', sans-serif;
+    
+  }
+
+.d-flex {
+	     margin-left: 1em;
+	     margin-right: 2em;
+         color: black;}
+
+
+
+
+.active {margin-bottom: 0%;}
+
+
+
+@media screen and (max-width: 1920px) {
+.genre {
+    width: 100%;
+    margin: 0 auto;
+    padding: 3.5rem;}
+
+#intro {font-family: 'Oswald', sans-serif;
+text-align: center;
+padding-top: 0em;
+padding-bottom: 1em;
+font-size: 1.8em;}
+
+.col-lg-6, .col-md-12 {text-align: center; padding-top: 1em; padding-bottom: 1em; font-family: 'Oswald', sans-serif; font-size: 1.5em; line-height: 1.8em; border-top: 3px solid #aec9f6; 
+      border-bottom: 3px solid #aec9f6; border-radius: 0rem;}
+
+
+
+
+.nav-item {font-family: 'Oswald', sans-serif; font-size: 1.3em;
+padding-top: 1em;
+padding-bottom: 3em;}
+
+
+
+#nav-item-cerca {padding-bottom: 0em;}
+
+
+
+#cuore {max-width: 67.3%;}
+
+
+
+
+.linkfoto {float: left; display: inline-block; text-align: right; color: black; padding-bottom: 0em;}
+
+
+
+.row {padding-top: 13em;}
+.card-footer {text-align: center;}
+.card-body {font-family: 'Oswald', sans-serif; font-size: 0.5em; line-height: 2em;}
+.card-text {padding-top: 1em; padding-bottom: 1em; padding-left: 1em;}
+.card-img { margin-top: 1em; margin-bottom: 1em;}
+@media screen and (max-width: 576px) {
+  .card-img {padding-left: 2em;}}
+h5 {padding-left: 0.8em;}
+
+
+
+footer {background-color: cornflowerblue; margin-top: 10em; padding: 2% 5% 6% 1%;}
+
+p {text-align: center;
+font-family: 'Oswald', sans-serif; font-size: 2em; padding-top: 5em; padding-bottom: -10em;}
+
+.container {padding-top: 45em;}
+
+.clearfix {;}
+
+#lucrezia {padding-top: 0em; background-color: #aec9f6; }
+#lucrezia-text {text-align: left;}
+#lucrezia-img {height: 230px; width: 250px;}
+
+#james {padding-top: 0em; background-color: #aec9f6; }
+#james-text {text-align: left;}
+#james-img {height: 230px; width: 250px;}
+
+#francesca {padding-top: 0em; background-color: #aec9f6; }
+#francesca-text {text-align: left;}
+#francesca-img {height: 230px; width: 250px;}
+
+h3 {text-align: center; padding-top: 2em;  font-family: 'Oswald', sans-serif; font-size: 2em;}
+
+
+.btn-primary {margin-left: 1.1em;}
+
+
+
+
+
+
